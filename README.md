@@ -26,4 +26,4 @@ Create an .env file:
 ASANA_ACCESS_TOKEN=your_personal_access_token
 
 # Capabilities
-The script supports creating tasks in bulk from an Excel spreadsheet. Sample excel
+The script supports creating tasks in bulk from an Excel spreadsheet. 
