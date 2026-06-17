@@ -15,13 +15,13 @@ Asana Personal Access Token (PAT)
 
 # Installation
 git clone https://github.com/your-org/asanaops.git
-
 cd asanaops
-
 pip install -r requirements.txt
 
+
 # Configuration
-Create a .env file:
+Create an .env file:
+
 ASANA_ACCESS_TOKEN=your_personal_access_token
 
 # Capabilities
