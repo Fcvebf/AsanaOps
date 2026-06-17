@@ -15,7 +15,9 @@ Asana Personal Access Token (PAT)
 
 # Installation
 git clone https://github.com/your-org/asanaops.git
+
 cd asanaops
+
 pip install -r requirements.txt
 
 # Configuration
