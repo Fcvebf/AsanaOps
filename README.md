@@ -22,8 +22,12 @@ pip install -r requirements.txt
 
 # Configuration
 Create an .env file:
-
-ASANA_ACCESS_TOKEN=your_personal_access_token
+```txt
+ASANA_TOKEN=your_personal_access_token
+#WORKSPACE_ID=xxxxx
+#PROJECT_ID=xxxx
+#SECTION_ID=xxxxx
+```
 
 # Capabilities
 The script supports creating tasks in bulk from an Excel spreadsheet. 
